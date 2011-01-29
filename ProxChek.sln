@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxChek", "ProxChek\ProxChek.csproj", "{AF9B5098-8296-4CFB-86B8-4804668FDFB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxCheck Test", "ProxCheck Test\ProxCheck Test.csproj", "{54BDE7FD-496F-40C2-A3CB-D7E8D62205C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF9B5098-8296-4CFB-86B8-4804668FDFB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9B5098-8296-4CFB-86B8-4804668FDFB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9B5098-8296-4CFB-86B8-4804668FDFB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9B5098-8296-4CFB-86B8-4804668FDFB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54BDE7FD-496F-40C2-A3CB-D7E8D62205C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54BDE7FD-496F-40C2-A3CB-D7E8D62205C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54BDE7FD-496F-40C2-A3CB-D7E8D62205C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54BDE7FD-496F-40C2-A3CB-D7E8D62205C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
